@@ -19,7 +19,7 @@ Este repositorio contiene los notebooks, la memoria y recursos necesarios para e
        conda activate nombre-del-entorno
        ```
    - Abre los notebooks de **Preprocesamiento** y **Análisis Exploratorio** dentro de Anaconda y ejecútalos en el entorno configurado.
-   - Para ejecutar el tercer notebook:
+   - Para ejecutar el notebook Aprendizaje incremental:
      - Este no debe ejecutarse dentro de Anaconda.
      - Usa un editor como **VSCode**.
      - Asegúrate de tener instalada la librería `river==0.21.2`:
