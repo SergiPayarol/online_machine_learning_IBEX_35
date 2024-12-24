@@ -1,6 +1,6 @@
 # TFM: Aplicación de algoritmos adaptativos y detección del drift para la predicción del cierre del IBEX-35
 
-Este repositorio contiene los notebooks y recursos necesarios para el desarrollo de mi Trabajo de Fin de Máster (TFM). A continuación, se explican los pasos para configurar el entorno y ejecutar los notebooks.
+Este repositorio contiene los notebooks, la memoria y recursos necesarios para el desarrollo de mi Trabajo de Fin de Máster (TFM). A continuación, se explican los pasos para configurar el entorno y ejecutar los notebooks.
 
 ## Instrucciones de uso
 
