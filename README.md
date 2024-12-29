@@ -10,9 +10,9 @@ Este repositorio contiene los notebooks, la memoria y recursos necesarios para e
      git clone https://github.com/tu-usuario/tu-repositorio.git
      ```
    - Si usas Anaconda, sigue estos pasos para configurar el entorno:
-     - Importa el entorno desde el archivo `environment.yml` incluido en el repositorio:
+     - Importa el entorno desde el archivo `enviorment.yml` incluido en el repositorio:
        ```bash
-       conda env create -f environment.yml
+       conda env create -f enviorment.yml
        ```
      - Activa el entorno:
        ```bash
